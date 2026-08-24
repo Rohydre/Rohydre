@@ -1,6 +1,6 @@
 # Hi, I'm Maxime 👋
 
-Full-stack developer (TypeScript / JavaScript) in Antibes, France.
+Product engineer (TypeScript / JavaScript) in Antibes, France.
 
 [![Maxime Soumrany — an interactive pixel-RPG resume](og-image.png)](https://maxime.soumrany.com)
 
